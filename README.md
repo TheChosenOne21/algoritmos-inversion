@@ -1,4 +1,4 @@
-# algoritmos_inversion
+# Algoritmos de inversion
 Proyecto que consiste en la creación de tres algoritmos de inversión distintos.
 En estos algoritmos no se utilizan métodos de machine learning o inteligencia artifical.
 Se han utilizado estrategias cuantitativas de gestión de carteras.
